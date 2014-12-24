@@ -1,0 +1,27 @@
+Resistance
+==========
+R: 196 => 200 Ohm
+G: 1054 => 1k Ohm
+B: 386 => 390 Ohm
+
+
+Voltage
+=======
+R: 1.37 V
+G: 816 mV
+B: 680 mV
+
+
+Current
+=======
+R: 6.85 mA
+G: 816 uA
+B: 1.74 mA
+
+Total: 9.41 mA
+
+
+Power
+=====
+On: 200.2mA * 4.55V = 910mW
+Sleep: 67.6mA * 4.89V = 330mW
